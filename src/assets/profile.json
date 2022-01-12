@@ -1,0 +1,25 @@
+{
+  "email": "ezihkossigan2022@gmail.com",
+  "location": "Bè Klikamé, Lomé, TOGO",
+  "name": "Abdou Kossigan EZIH",
+  "phone": "+228 93 05 36 98",
+  "avatar": "assets/media/images/avatar.jpg",
+  "education": [
+    {
+      "title": "Diplôme de certificat de fin d’apprentissage en coiffure",
+      "meta": "-"
+    },
+    {
+      "title": "Baccalauréat série scientifique(D)",
+      "meta": "-"
+    }
+  ],
+  "about": "Huit (08) ans d’expériences professionnelles en coiffure et dans la réalisation des travaux qui demandent de l’endurance.\n\nExcellente aptitude à la technologie : Assimile très rapidement les nouvelles applications  (Word, Excel, Accès etc…..)",
+  "socials": [
+    {
+      "name": "ezihkossigan2022@gmail.com",
+      "link": "mailto:ezihkossigan2022@gmail.com",
+      "icon": "fa fa-envelope"
+    }
+  ]
+}

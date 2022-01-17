@@ -71,9 +71,10 @@ export class HomeComponent implements OnInit {
     this.downloadPdf(base64String, `${this.profile.name} _Diplome`.replace(/\s/g, ''));
   }
 
+  // tslint:disable-next-line:typedef
   onClickDownloadattestation(){
     const base64String = DownloadData.attestation;
-    this.downloadPdf(base64String, `${this.profile.name} _Attestation`.replace(/\s/g, ''));
+    this.downloadPdf(base64String, `${this.profile.name} _Releve`.replace(/\s/g, ''));
   }
 
 }

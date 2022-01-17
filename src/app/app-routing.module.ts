@@ -14,7 +14,7 @@ const routes: Routes = [
     path: '', component: HomeComponent
   },
   {
-    path: 'abndou-kossigan-ezih', redirectTo: '/', pathMatch: 'full'
+    path: 'wodi-komi-kpeku', redirectTo: '/', pathMatch: 'full'
   },
   {
     path: '**',

@@ -1,24 +1,32 @@
 {
-  "email": "ezihkossigan2022@gmail.com",
+  "email": "olivierkpeku@gmail.com",
   "location": "Lomé, TOGO",
-  "name": "Abdou Kossigan EZIH",
+  "name": "Wodi Komi KPEKU",
   "phone": "+228 93 05 36 98",
   "avatar": "assets/media/images/avatar.jpg",
   "education": [
     {
-      "title": "Diplôme de certificat de fin d’apprentissage en coiffure",
-      "meta": "2014"
+      "title": "MAITRISE EN GESTION COMMERCIALE ET FINANCIERE",
+      "meta": "I.A.E.C, Lomé, 2007"
     },
     {
-      "title": "Baccalauréat série scientifique(D)",
-      "meta": "2011"
+      "title": "LICENCE EN GESTION COMMERCIALE ET FINANCIERE",
+      "meta": "I.A.E.C, Lomé, 2006"
+    },
+    {
+      "title": "BTS EN COMPTABILITE ET GESTION DES ENTREPRISES",
+      "meta": "OBTS, Lomé, 2005"
+    },
+    {
+      "title": "Baccalauréat technique serie G2",
+      "meta": "Office du bac, Lomé 2002"
     }
   ],
-  "about": "Huit (08) ans d’expériences professionnelles en coiffure et dans la réalisation des travaux qui demandent de l’endurance.\n\nExcellente aptitude à la technologie : Assimile très rapidement les nouvelles applications  (Word, Excel, Accès etc…..)",
+  "about": "J'ai débuté ma carrière en tant qu'Agent Caissier de Banque. Huit ans après,\nResponsable et cadre de Banque. Aujourd'hui, forte de 13ans d'expériences avec la\n3è agence sous ma gestion. Tout ceci grâce à ma recherche de l'excellence en\ncontinue, à ma disponibilité, loyauté, intégrité, honnêteté, capacite d'organisation et\nd'adaptation, la bonne collaboration et l'esprit d'équipe. Mon objectif plutard est de\ncréer ma propre entreprise et j'y arriverai",
   "socials": [
     {
-      "name": "ezihkossigan2022@gmail.com",
-      "link": "mailto:ezihkossigan2022@gmail.com",
+      "name": "olivierkpeku@gmail.com",
+      "link": "mailto:olivierkpeku@gmail.com",
       "icon": "fa fa-envelope"
     }
   ]

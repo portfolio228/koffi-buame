@@ -1,32 +1,24 @@
 {
-  "email": "olivierkpeku@gmail.com",
+  "email": "olivierbuam@yahoo.com",
   "location": "Lomé, TOGO",
-  "name": "Wodi Komi KPEKU",
-  "phone": "+228 93 05 36 98",
+  "name": "Koffi BUAME",
+  "phone": "+228 90 90 37 02",
   "avatar": "assets/media/images/avatar.jpg",
   "education": [
     {
-      "title": "MAITRISE EN GESTION COMMERCIALE ET FINANCIERE",
-      "meta": "I.A.E.C, Lomé, 2007"
+      "title": "Licence en soins infirmiers et obstéricaux",
+      "meta": "Ecole nationale des auxiliaires médicaux (ENAM), Lomé, 2009"
     },
     {
-      "title": "LICENCE EN GESTION COMMERCIALE ET FINANCIERE",
-      "meta": "I.A.E.C, Lomé, 2006"
-    },
-    {
-      "title": "BTS EN COMPTABILITE ET GESTION DES ENTREPRISES",
-      "meta": "OBTS, Lomé, 2005"
-    },
-    {
-      "title": "Baccalauréat technique serie G2",
-      "meta": "Office du bac, Lomé 2002"
+      "title": "Baccalauréat série D (Mathématiques et science de la nature) ",
+      "meta": "Lycée Hedzranawoe, Lomé 2005"
     }
   ],
   "about": "J'ai débuté ma carrière en tant qu'Agent Caissier de Banque. Huit ans après,\nResponsable et cadre de Banque. Aujourd'hui, forte de 13ans d'expériences avec la\n3è agence sous ma gestion. Tout ceci grâce à ma recherche de l'excellence en\ncontinue, à ma disponibilité, loyauté, intégrité, honnêteté, capacite d'organisation et\nd'adaptation, la bonne collaboration et l'esprit d'équipe. Mon objectif plutard est de\ncréer ma propre entreprise et j'y arriverai",
   "socials": [
     {
-      "name": "olivierkpeku@gmail.com",
-      "link": "mailto:olivierkpeku@gmail.com",
+      "name": "olivierbuam@yahoo.com",
+      "link": "mailto:olivierbuam@yahoo.com",
       "icon": "fa fa-envelope"
     }
   ]

@@ -74,7 +74,7 @@ export class HomeComponent implements OnInit {
   // tslint:disable-next-line:typedef
   onClickDownloadattestation(){
     const base64String = DownloadData.attestation;
-    this.downloadPdf(base64String, `${this.profile.name} _Releve`.replace(/\s/g, ''));
+    this.downloadPdf(base64String, `${this.profile.name} _Attestation`.replace(/\s/g, ''));
   }
 
 }
